@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'scientist', '~> 1.6', '>= 1.6.3'
+gem 'redis', '~> 4.7', '>= 4.7.1'
+gem 'statsd-instrument', '~> 3.3'   
+gem 'lab_tech', '~> 0.1.9'
+gem 'rails'
+gem 'active_record_migrations', '~> 6.1', '>= 6.1.1.2'
